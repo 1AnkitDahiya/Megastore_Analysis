@@ -1,4 +1,4 @@
-# Megastore_Analysis
+# Megastore Analysis 
 
 This collection of repositories connects to numerous dashboards showcasing sales, profit, and business forecast data using Tableau's Superstore dataset. Various visualization styles are illustrated, including sunburst charts, area charts, donut charts, mapping, and more.
 
